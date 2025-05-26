@@ -75,7 +75,7 @@ IF([@[Patient Age]]>=5,"05-14","0-4"))))))
 - Designed for real-world hospital use case
 
 
-  ![Hospital Emergency Room Dashboard](dashboard-screenshot.png)
+  ![Hospital Emergency Room Dashboard](Dashboard_Screenshot.png)
 
 ---
 
