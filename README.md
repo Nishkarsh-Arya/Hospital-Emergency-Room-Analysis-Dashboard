@@ -74,6 +74,9 @@ IF([@[Patient Age]]>=5,"05-14","0-4"))))))
 - Clean layout for quick understanding of emergency room performance
 - Designed for real-world hospital use case
 
+
+  ![Hospital Emergency Room Dashboard](dashboard-screenshot.png)
+
 ---
 
 ## 📁 Project Files
@@ -109,4 +112,5 @@ For feedback or collaboration, please contact via GitHub Issues or connect on Li
 
 ## 🏁 Acknowledgments
 
-Developed as part of a data analytics exercise to demonstrate Excel's capabilities in building powerful, insightful dashboards for the healthcare domain.
+🏁 Acknowledgments  
+This project was developed as part of my data analytics portfolio to showcase the use of Microsoft Excel for building interactive dashboards in the healthcare domain.
