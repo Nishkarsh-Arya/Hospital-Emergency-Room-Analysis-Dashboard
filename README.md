@@ -75,7 +75,9 @@ IF([@[Patient Age]]>=5,"05-14","0-4"))))))
 - Designed for real-world hospital use case
 
 
+
   ![Hospital Emergency Room Dashboard](Dashboard_Screenshot.png)
+
 
 ---
 
@@ -112,5 +114,4 @@ For feedback or collaboration, please contact via GitHub Issues or connect on Li
 
 ## 🏁 Acknowledgments
 
-🏁 Acknowledgments  
 This project was developed as part of my data analytics portfolio to showcase the use of Microsoft Excel for building interactive dashboards in the healthcare domain.
