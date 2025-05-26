@@ -80,7 +80,7 @@ IF([@[Patient Age]]>=5,"05-14","0-4"))))))
 
 - `Hospital_ER_Dashboard.xlsx` – Main Excel file with dashboard and data
 - `README.md` – Project documentation
-- `Screenshots/` – (Optional) Preview images of the dashboard
+- `Dashboard_Screenshot` – Preview image of the dashboard
 
 ---
 
